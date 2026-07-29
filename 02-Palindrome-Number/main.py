@@ -6,3 +6,4 @@ class Solution:
 newSolution = Solution()
 
 print(newSolution.isPalindrome(1001))
+
